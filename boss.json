@@ -1,0 +1,11 @@
+{
+	"name": "Exemplo",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"github.com/viniciussanchez/dataset-serialize": "^v2.2.2"
+	}
+}
